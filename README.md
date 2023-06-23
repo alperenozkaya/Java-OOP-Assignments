@@ -4,7 +4,7 @@ This repository includes some of the programming assignments I completed during 
 
 There are 5 different assignments in this repository with their reports that explain how the algorithms work. 
 
-#Assignment 1: Average of Small Numbers
+# Assignment 1: Average of Small Numbers
 This program was created to calculate the average of the numbers that are less than or equal to 
 10 in the series of numbers created by the user
 
